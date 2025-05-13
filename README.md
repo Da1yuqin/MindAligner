@@ -5,10 +5,6 @@ Code for our [ICML 2025 paper](https://arxiv.org/pdf/2502.05034) : "MindAligner:
 
 ✨ Welcome to give a star! ✨
 
-<p float="left">
-    <img width="100%" src="./figs/mainfig.png"/>
-    <img width="100%" src="./figs/results.png"/>
-</p>
 
 
 ### Citation
