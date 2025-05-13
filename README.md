@@ -1,10 +1,7 @@
 # MindAligner
 Code for our [ICML 2025 paper](https://arxiv.org/pdf/2502.05034) : "MindAligner: Explicit Brain Functional Alignment for Cross-Subject Brain Visual Decoding with Limited Data"
 
-
-
 ✨ Welcome to give a star! ✨
-
 
 
 ### Citation
