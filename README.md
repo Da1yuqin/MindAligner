@@ -64,6 +64,38 @@ To obtain final enhanced restuls:
 
 All files used for evaluation will be stored to `.evals/1->2`.
 
+
+## Contributing
+A huge thank you to the following contributors for their outstanding work on the code! 💖🙌✨
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/Da1yuqin">
+          <img src="https://avatars.githubusercontent.com/u/139312004?v=4" width="100px;" alt="Yuqin Dai"/>
+          <br />
+          <sub><b>Yuqin Dai</b></sub>
+        </a>
+        <br />
+        <a href="https://github.com/Da1yuqin" title="Code">💻</a>
+        <a href="https://github.com/Da1yuqin" title="Design">🎨</a>
+        <a href="https://github.com/Da1yuqin" title="Ideas, Planning, & Feedback">🤔</a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/kaleidoyao">
+          <img src="https://avatars.githubusercontent.com/u/90367230?v=4" width="100px;" alt="Zhouheng Yao"/>
+          <br />
+          <sub><b>Zhouheng Yao</b></sub>
+        </a>
+        <br />
+        <a href="https://github.com/kaleidoyao" title="Code">💻</a>
+        <a href="https://github.com/kaleidoyao" title="Bug reports">🐛</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### Citation
 ```
 @article{dai2025mindaligner,
