@@ -82,7 +82,7 @@ A huge thank you to the following contributors for their outstanding work on the
           <img src="https://avatars.githubusercontent.com/u/139312004?v=4" width="100" height="100" style="border-radius:50%;" alt="Yuqin Dai">
         </a>
         <div><strong>Yuqin Dai</strong></div>
-        <div>💻 🎨 🤔</div>
+        <div>💻 🐕 😎</div>
       </td>
     </tr>
   </tbody>
