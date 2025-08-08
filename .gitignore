@@ -1,0 +1,7 @@
+*.jpg
+**.pyc
+cache_clip_similarity/
+ckpts/
+evals/
+sim_dataset/v2subj1257/
+wandb/
