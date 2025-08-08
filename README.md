@@ -67,50 +67,27 @@ All files used for evaluation will be stored to `.evals/1->2`.
 
 ## Contributing
 A huge thank you to the following contributors for their outstanding work on the code! 💖🙌✨
-<table style="width:100%;">
+<table>
   <tbody>
     <tr>
-      <!-- Zhouheng Yao -->
-      <td align="center" valign="top" width="14.28%" style="vertical-align: top; padding: 8px;">
-        <div style="display:inline-block; text-align:center; max-width:120px;">
-          <a href="https://github.com/kaleidoyao">
-            <img
-              src="https://avatars.githubusercontent.com/u/90367230?v=4"
-              alt="Zhouheng Yao"
-              width="100"
-              style="display:block; border-radius:50%; margin:0 auto;"
-            />
-            <sub style="display:block; margin-top:6px;"><b>Zhouheng Yao</b></sub>
-          </a>
-          <div style="margin-top:6px; line-height:1;">
-            <a href="https://github.com/kaleidoyao" title="Code">💻</a>&nbsp;
-            <a href="https://github.com/kaleidoyao" title="Bug reports">🐛</a>&nbsp;
-            <a href="https://github.com/kaleidoyao" title="Genius Editor">🖊</a>
-          </div>
-        </div>
+      <td align="center" width="150">
+        <a href="https://github.com/kaleidoyao">
+          <img src="https://avatars.githubusercontent.com/u/90367230?v=4" width="100" height="100" style="border-radius:50%;" alt="Zhouheng Yao">
+        </a>
+        <div><strong>Zhouheng Yao</strong></div>
+        <div>💻 🐛 🖊</div>
       </td>
-      <!-- Yuqin Dai -->
-      <td align="center" valign="top" width="14.28%" style="vertical-align: top; padding: 8px;">
-        <div style="display:inline-block; text-align:center; max-width:120px;">
-          <a href="https://github.com/Da1yuqin">
-            <img
-              src="https://avatars.githubusercontent.com/u/139312004?v=4"
-              alt="Yuqin Dai"
-              width="100"
-              style="display:block; border-radius:50%; margin:0 auto;"
-            />
-            <sub style="display:block; margin-top:6px;"><b>Yuqin Dai</b></sub>
-          </a>
-          <div style="margin-top:6px; line-height:1;">
-            <a href="https://github.com/Da1yuqin" title="Code">💻</a>&nbsp;
-            <a href="https://github.com/Da1yuqin" title="Design">🎨</a>&nbsp;
-            <a href="https://github.com/Da1yuqin" title="Ideas, Planning, & Feedback">🤔</a>
-          </div>
-        </div>
+      <td align="center" width="150">
+        <a href="https://github.com/Da1yuqin">
+          <img src="https://avatars.githubusercontent.com/u/139312004?v=4" width="100" height="100" style="border-radius:50%;" alt="Yuqin Dai">
+        </a>
+        <div><strong>Yuqin Dai</strong></div>
+        <div>💻 🎨 🤔</div>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 
 
