@@ -83,14 +83,16 @@ A huge thank you to the following contributors for their outstanding work on the
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/kaleidoyao">
-          <img src="https://avatars.githubusercontent.com/u/90367230?v=4" width="100px;" alt="Zhouheng Yao"/>
-          <br />
-          <sub><b>Zhouheng Yao</b></sub>
+            <img src="https://avatars.githubusercontent.com/u/90367230?v=4" width="100px;" alt="Zhouheng Yao"/>
+            <br />
+            <sub><b>Zhouheng Yao</b></sub>
         </a>
         <br />
         <a href="https://github.com/kaleidoyao" title="Code">💻</a>
         <a href="https://github.com/kaleidoyao" title="Bug reports">🐛</a>
-      </td>
+        <a href="https://github.com/kaleidoyao" title="Genius Editor">🖊</a>
+        <br /> 
+        </td>
     </tr>
   </tbody>
 </table>
