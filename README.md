@@ -66,7 +66,7 @@ All files used for evaluation will be stored to `.evals/1->2`.
 
 
 ## Contributing
-A huge thank you to the following contributors for their outstanding work on the code! 💖🙌✨
+A huge thank you to the following contributor for her outstanding work on the code! 💖🙌✨
 <table>
   <tbody>
     <tr>
