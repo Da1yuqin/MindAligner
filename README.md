@@ -76,13 +76,6 @@ A huge thank you to the following contributors for their outstanding work on the
         </a>
         <div><strong>Zhouheng Yao</strong></div>
         <div>🐭🍽🐱</div>
-      <td align="center" width="150">
-        <a href="https://github.com/Da1yuqin">
-          <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/139312004?v=4&mask=circle&w=100&h=100" alt="Yuqin Dai">
-        </a>
-        <div><strong>Yuqin Dai</strong></div>
-        <div>🐶❤😎</div>
-      </td>
     </tr>
   </tbody>
 </table>
