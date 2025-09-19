@@ -33,7 +33,7 @@ In our experiments, we use NSD for both training and evaluation.
     Otherwise, directly download our preprocessed feature from [here](<insert_link_here>) to the `./sim_dataset/v2subj1257` folder if you prefer not to process the data.
 
 
-4. Please download the pretrained decoding model from [here](https://huggingface.co/datasets/pscotti/mindeyev2/tree/main/train_logs) to the directory `./decoding_model`. We only use `final_subj0{subj_id}_pretrained_1sess_24bs`, so you only need to download the relevant checkpoints. Here, `subj_id={1,2,5,7}`.
+4. Please download the pretrained decoding model from [here](https://huggingface.co/datasets/pscotti/mindeyev2/tree/main/train_logs) to the directory `./decoding_model`. We only use `final_multisubject_subj0{args.n_subj}/last.pth`, so you only need to download the relevant checkpoints. Here, `subj_id={1,2,5,7}`.
 
 
 
